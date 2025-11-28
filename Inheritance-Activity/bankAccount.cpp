@@ -1,5 +1,4 @@
 ```cpp
-
 #include "bankAccount.h"
 #include <iostream>
 
@@ -32,4 +31,3 @@ void bankAccount::print() const {
     std::cout << "Account Number: " << accountNumber << std::endl;
     std::cout << "Balance (USD): " << balance << std::endl;
 }
-
