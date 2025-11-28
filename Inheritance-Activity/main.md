@@ -2,6 +2,11 @@
 #include <iostream>
 #include <iomanip>
 
+// Name: Jeremy Tajiri
+// Course: CISC 192 - C++ Programming
+// Date: 11/27/2025
+// Assignment: Inheritance_Activity
+
 // ========================
 // bankAccount class
 // ========================
